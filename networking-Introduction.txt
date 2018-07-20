@@ -1,0 +1,53 @@
+1. NIC (Network Interface Card)
+	
+	also known as--
+
+	1.Network Interface Controller
+	2.Network Adapter
+	3.LAN Adapter
+	4.Physical Network Adapter
+
+Def= This is essentially a computer h/w component that connects a computer or a device to a computer n/w.
+
+2. Computer Network
+	
+	Two or more devices connected to each other via ethernet of RJ45 via NIC form computer n/w.(Sharing info with each other)
+
+3. Network Protocol(Simply a Language)
+
+	A set of rules and conventions that govern the communications b/w two PCs in computer n/w.
+
+	Ex. Two PCs communicating with each other must be talk in same language or how they will exchange the data
+
+4. IP Address
+	
+	An Numerical Address assigned to every device that participating in computer n/w uses Internet protocol.
+
+5. DHCP
+
+	It allows a server or a device such as a router to dynamically allocate IP addr to devices that join that n/w.
+
+6. DNS
+
+	It converts domain names to ip address
+
+7. Topology
+
+	a. Physical(Arrangement of the Cable, Network devices and End Points)
+	b. Logical (Describe the path in which route data is transferred to n/w)
+
+8. Speed
+
+	Measurment of Data-Rate in a given link in Bits Per Sec.
+
+9. Cost
+	
+	installation of the networking components and maintenance.
+
+10. Security
+
+	Protection of your computer n/w
+
+11. Availability(Percentage of time)
+
+	Measurement of probability of a n/w will available for the use when needed

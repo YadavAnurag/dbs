@@ -1,0 +1,26 @@
+1. Windows boot loader now showing on boot menu(This is why you have installed grub boot loader at the entire disk mistakely)
+
+1. os-prober
+2. update-grub
+
+
+2. To kill any process in Windows
+1. netstat -ano | findstr :portNumber
+2. taskkill /PID processPid /F 
+
+
+
+
+
+1. Learning to program
+	NPM playbook
+	Building javascript env
+2. Introduction to node.js
+	Building web apps with node.js express 4.0 update
+	Restfull web sevices with nodejs and express
+3. Nodejs testing strategies
+	Node app patterns
+	Advanced node.js
+
+
+	
